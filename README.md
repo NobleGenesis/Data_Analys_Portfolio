@@ -1,2 +1,98 @@
-# Data_Analys_Portfolio
-Data analytics portfolio featuring Python, SQL, Excel &amp; Power BI projects, with a focus on insights, visualization, and business decision-making.
+# 📊 Data Analysis Portfolio
+
+Welcome to my **Data Analysis Portfolio**.
+
+This repository contains a collection of data analysis and business intelligence projects focused on transforming 
+raw data into meaningful insights through **data cleaning, analysis, visualization, and reporting**.
+
+Each project addresses a specific analytical problem or business question and includes the relevant datasets, 
+analysis, visualizations, dashboards, and supporting documentation.
+
+---
+
+## 📁 Projects
+
+### 1. 🛒 AfriMart-KollyBright Sales Dashboard
+
+**Focus:** Sales Performance & Business Intelligence
+**Tool:** Microsoft Excel
+
+An interactive sales dashboard developed to analyze sales performance and provide a clear view of 
+key business metrics, trends, and performance indicators.
+
+**Key areas of analysis:**
+
+* Sales performance
+* Revenue analysis
+* Product performance
+* Sales trends
+* Key performance indicators (KPIs)
+* Business performance insights
+
+➡️ **[View Project](./AfriMart-KollyBright-Sales-Dashboard/)**
+
+---
+
+## 🧰 Tools & Technologies
+
+The portfolio includes projects using a range of data analysis and business intelligence tools, including:
+
+* **Microsoft Excel**
+* **Python**
+* **SQL / MySQL**
+* **Power BI**
+* **Google Sheets**
+* **R**
+
+The specific tools used for each project are identified in its project description and documentation.
+
+---
+
+## 📊 Areas of Analysis
+
+The projects in this portfolio cover areas such as:
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis
+* Sales & Business Analysis
+* Customer & Product Analysis
+* Data Visualization
+* Dashboard Development
+* KPI Analysis
+* Trend & Pattern Analysis
+* Business Intelligence
+* Data-Driven Insights
+
+---
+
+## 📂 Repository Structure
+
+Each project is maintained as an individual folder containing its own documentation and supporting files.
+
+```text
+Data-Analysis-Portfolio/
+│
+├── AfriMart-KollyBright-Sales-Dashboard/
+│   ├── README.md
+│   └── ...
+│
+├── [Future Project]/
+│   ├── README.md
+│   └── ...
+│
+└── README.md
+```
+
+As new projects are added, they will be listed in the **Projects** section above.
+
+---
+
+## 📬 Contact
+
+**[GitHub](https://github.com/NobleGenesis)**
+**[LinkedIn]((https://www.linkedin.com/in/genesisamaha)**
+**[Email](official.amahagenesis@gmail.com)**
+
+---
+
+### Data → Analysis → Insights → Decisions
