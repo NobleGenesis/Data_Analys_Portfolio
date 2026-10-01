@@ -90,7 +90,7 @@ As new projects are added, they will be listed in the **Projects** section above
 ## 📬 Contact
 
 **[GitHub](https://github.com/NobleGenesis)**
-**[LinkedIn]((https://www.linkedin.com/in/genesisamaha)**
+**[LinkedIn](https://www.linkedin.com/in/genesisamaha)**
 **[Email](official.amahagenesis@gmail.com)**
 
 ---
