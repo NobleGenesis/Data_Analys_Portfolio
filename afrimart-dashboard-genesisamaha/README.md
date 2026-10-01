@@ -131,7 +131,7 @@ Users can filter the dashboard by:
 - [Dashboard and Analysis](AfriMart_Dashboard_AmahaGenesis.xlsx)
 - [Dashboard Screenshot](dashboard_screenshot.png)
 - [AfriMart-KollyBright logo](012_AfriMart_KollyBright_logo.png)
-- README.md
+- [README](README.md)
 
 ---
 
