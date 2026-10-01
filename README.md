@@ -29,7 +29,7 @@ key business metrics, trends, and performance indicators.
 * Key performance indicators (KPIs)
 * Business performance insights
 
-➡️ **[View Project](./AfriMart-KollyBright-Sales-Dashboard/)**
+➡️ **[View Project](afrimart-dashboard-genesisamaha)**
 
 ---
 
