@@ -127,11 +127,11 @@ Users can filter the dashboard by:
 
 ## Files in Repository
 
-[Raw Sales Dataset](AfriMart_Sales_Dataset.xlsx)
-[Dashboard and Analysis](AfriMart_Dashboard_AmahaGenesis.xlsx)
-[Dashboard Screenshot](dashboard_screenshot.png)
-[AfriMart-KollyBright logo](012_AfriMart_KollyBright_logo.png)
-README.md
+- [Raw Sales Dataset](AfriMart_Sales_Dataset.xlsx)
+- [Dashboard and Analysis](AfriMart_Dashboard_AmahaGenesis.xlsx)
+- [Dashboard Screenshot](dashboard_screenshot.png)
+- [AfriMart-KollyBright logo](012_AfriMart_KollyBright_logo.png)
+- README.md
 
 ---
 
