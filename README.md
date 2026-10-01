@@ -91,7 +91,7 @@ As new projects are added, they will be listed in the **Projects** section above
 
 **[GitHub](https://github.com/NobleGenesis)**
 **[LinkedIn](https://www.linkedin.com/in/genesisamaha)**
-**[Email](official.amahagenesis@gmail.com)**
+**[Email](mailto:your.official.amahagenesis@gmail.com)**
 
 ---
 
